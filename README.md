@@ -1,35 +1,21 @@
-Miraculum - a stylish, single-page Coming Soon template
+Stepan personal page
 =============
 
-Miraculum is a free, responsive, single-page HTML5 template ideal for "Coming Soon" pages.
-Features dynamic, time-controlled background and colors. 
+Place to tell who I am and what am I doing here. Link that can be shared with coworkers and potential employers. Miraculum is a free, responsive, single-page HTML5 template ideal for "Coming Soon" pages.
 
-
-License
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
-
-
-Features
+Todos
 -----------
 
-A few features that make this template unique
+A few things to make this page awesome
 
-* HTML is clean and fat-free, you will not find any useless code inside this template.
-* Responsive design
-* Dynamic background and color palette, looks very stylish.
-
-
-Bug tracker
------------
-
-Found a bug? Please create an issue here on GitHub! 
-https://github.com/pozh/miraculum/issues
-
+* update info.
+* change github username to **@supersin**
+* add links to github, linkedin, upwork
+* add some portfolio projects
 
 
 Credits
 -------
-* Design and development: **Sergey Pozhilov** - http://pozhilov.com
-* Photos used in template: **Unsplash** - http://unsplash.com
-* More free templates by Sergey: http://gettemplate.com
+* Template: **Miraculum** - https://github.com/pozh/miraculum
+* Photos used: **Unsplash** - http://unsplash.com
+
