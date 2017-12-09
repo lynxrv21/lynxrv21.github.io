@@ -1,16 +1,17 @@
 Stepan personal page
 =============
 
-Place to tell who I am and what am I doing here. Link that can be shared with coworkers and potential employers. Miraculum is a free, responsive, single-page HTML5 template ideal for "Coming Soon" pages.
+Place to tell who I am and what am I doing here. Link that can be shared with coworkers and potential employers.
+https://lynxrv21.github.io
 
 Todos
 -----------
 
 A few things to make this page awesome
 
-* update info.
+* ~~update info~~
+* ~~add links to github, linkedin, upwork~~
 * change github username to **@supersin**
-* add links to github, linkedin, upwork
 * add some portfolio projects
 
 
