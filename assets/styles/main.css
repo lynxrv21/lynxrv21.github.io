@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  background:#fff url(../images/bg-noon.jpg) no-repeat top center;
+  background:#fff url(../images/bg-noon-min.jpg) no-repeat top center;
   background-size:cover;
   display:flex;
   flex-direction: column;
@@ -22,17 +22,17 @@ body {
 }
 
 body.morning {
-  background:#fff url(../images/bg-morning.jpg) no-repeat top center;
+  background:#fff url(../images/bg-morning-min.jpg) no-repeat top center;
   background-size:cover;
   color: #fff;
 }
 body.evening {
-  background:#fff url(../images/bg-evening.jpg) no-repeat top center;
+  background:#fff url(../images/bg-evening-min.jpg) no-repeat top center;
   background-size:cover;
   color: #fff;
 }
 body.night {
-  background:#fff url(../images/bg-night.jpg) no-repeat top center;
+  background:#fff url(../images/bg-night-min.jpg) no-repeat top center;
   background-size:cover;
   color: #fff;
 }
